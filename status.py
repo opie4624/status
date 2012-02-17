@@ -88,7 +88,10 @@ actions = [
     "excavating",
     "calculating",
     "comparing",
-    "eating"
+    "eating",
+    "listening to",
+    "updating",
+    "pushing"
 ]
 
 statuses = [
@@ -110,7 +113,10 @@ statuses = [
     "stuffing ballot box",
     "checking for cavities",
     "cutting green wire",
-    "reticulating splines"
+    "reticulating splines",
+    "{} thank you notes",
+    "{} letter to grandma",
+    "{} shopping cart"
 ]
 
 def status():
