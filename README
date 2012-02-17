@@ -1,0 +1,29 @@
+SYNOPSIS
+
+    status
+
+DESCRIPTION
+
+    This generates a random status message.
+
+EXAMPLES
+
+    # status
+    > Formatting lesson plans.
+    
+    or 
+    
+    from status import status
+    message = status()
+
+AUTHOR
+
+    Andrew Kraut <opie@cybyl.com>
+
+LICENSE
+
+    This script is in the public domain.
+
+VERSION
+
+    1.0
