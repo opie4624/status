@@ -52,6 +52,7 @@ from random import choice
 
 actions = [
     "simulating",
+    "engaging",
     "stimulating",
     "discovering",
     "refactoring",
@@ -96,6 +97,7 @@ actions = [
 
 statuses = [
     "{} the meaning of life",
+    "{} warp drive",
     "{} pod bay doors",
     "{} harmonies",
     "{} body fat percentage",
